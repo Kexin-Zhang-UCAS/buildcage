@@ -1,0 +1,15 @@
+
+
+{
+  "BOSSdir": "/home/zhangkexin/software/boss",
+  "BABELexe": "/home/zhangkexin/software/openbabel/bin/obabel",
+  "LMPexe": "/home/zhangkexin/software/lammps/src/lmp_gnu",
+  "name": "test",
+  "cage": {
+    "blocks": [
+      ["NC1CCCCC1N",["-NH2"]],
+      ["O=Cc1cc(C=O)cc(C=O)c1",["-CHO"]]
+    ],
+    "topology": "2+3"
+  }
+}
